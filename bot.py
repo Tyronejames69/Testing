@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
 # Set your API Token
-API_TOKEN = "<put-your-token-here>"
+API_TOKEN = 8308872349:AAGCV12tdEGgqwC3g_pdoAfRbAMqwd7EdnE
 
 # Command to start the bot
 def start(update: Update, context: CallbackContext):
